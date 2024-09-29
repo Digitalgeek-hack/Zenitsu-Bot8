@@ -11,7 +11,7 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 //new
 global.botname = '亗𝑴𝒖𝒛𝒂𝒏༒ 𝑺𝒖𝒌𝒖𝒏𝒂✰✭—͟͟͞͞𖣘' //ur bot name
 global.ownernumber = '393716907857' //ur owner number
-global.ownername = '🦄393716907857' //ur owner name
+global.ownername = '亗𝑴𝒖𝒛𝒂𝒏༒ 𝑺𝒖𝒌𝒖𝒏𝒂✰✭—͟͟͞͞𖣘' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🪀'
